@@ -8,10 +8,9 @@
 
 **A minimal, styled logging package for Go**
 
-
+<img width="995" height="698" alt="image" src="https://github.com/user-attachments/assets/28a9b10d-5276-4c05-acae-0b1c05af18ba" />
 
 </div>
-
 
 ## Features
 
