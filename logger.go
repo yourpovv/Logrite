@@ -58,7 +58,7 @@ func logLine(tag, message string, bg, fg color.Attribute) {
 	normalizedTag := strings.ToLower(tag)
 
 	icons := map[string]string{
-		"info": "ℹ️", "warn": "⚠️", "error": "❌", "success": "✅",
+		"info": "ℹ️ ", "warn": "⚠️ ", "error": "❌", "success": "✅",
 		"login": "🔐", "web": "🌐", "command": "💻", "debug": "🐞",
 	}
 
