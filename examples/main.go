@@ -1,7 +1,7 @@
 package main
 
 import (
-	logger "github.com/yourpov/logrite"
+	logger "github.com/yourpovv/logrite"
 )
 
 func main() {
