@@ -3,7 +3,6 @@
 # LogRite
 
 [![License](https://img.shields.io/badge/license-MIT-blue.svg)](LICENSE)
-![Platform](https://img.shields.io/badge/platform-Windows-lightgrey)
 [![Language](https://img.shields.io/badge/Go-00ADD8?logo=go&logoColor=white)](https://go.dev/)
 
 **A minimal, styled logging package for Go**
